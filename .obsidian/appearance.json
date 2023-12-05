@@ -1,0 +1,8 @@
+{
+  "accentColor": "#76bb40",
+  "cssTheme": "Things",
+  "theme": "moonstone",
+  "enabledCssSnippets": [
+    "stock-charts"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "minNumberOfDaysToShowWarning": 180,
+  "messageTemplate": "This note hasn't been updated in ${numberOfDays} days",
+  "showWarningIfDataIsNotFound": false,
+  "triggerToUpdate": "On open file",
+  "dateToBeReferred": "Modified time",
+  "frontMatterKey": "updated",
+  "captureGroupPattern": "^// (?<date>[0-9]{4}/[0-9]{2}/[0-9]{2})",
+  "excludePrefixPathPatterns": []
+}

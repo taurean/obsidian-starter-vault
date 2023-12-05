@@ -1,0 +1,39 @@
+{
+  "attachmentFolderPath": "Attachments",
+  "trashOption": "local",
+  "mobilePullAction": "command-palette:open",
+  "mobileToolbarCommands": [
+    "editor:undo",
+    "editor:redo",
+    "editor:insert-wikilink",
+    "editor:toggle-bullet-list",
+    "editor:toggle-checklist-status",
+    "editor:unindent-list",
+    "editor:indent-list",
+    "editor:insert-link",
+    "editor:insert-tag",
+    "editor:attach-file",
+    "editor:insert-embed",
+    "editor:set-heading",
+    "editor:toggle-bold",
+    "editor:toggle-italics",
+    "editor:toggle-numbered-list",
+    "editor:configure-toolbar",
+    "insert-template"
+  ],
+  "promptDelete": false,
+  "showInlineTitle": false,
+  "mobileQuickRibbonItem": "switcher:Open quick switcher",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "backlog",
+  "defaultViewMode": "preview",
+  "propertiesInDocument": "visible",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

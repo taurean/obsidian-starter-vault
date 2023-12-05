@@ -1,0 +1,180 @@
+{
+  "mapMarkers": [
+    {
+      "id": "kyoto",
+      "lastAccessed": 1699844539758,
+      "markers": [
+        {
+          "id": "ID_8beafa08d819",
+          "type": "default",
+          "loc": [
+            38.0912943880109,
+            -122.18273162841798
+          ],
+          "layer": "real",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [
+        {
+          "type": "polygon",
+          "color": "#3388FF",
+          "vertices": [
+            {
+              "lat": 38.04572533974247,
+              "lng": -122.21959590911867,
+              "id": "ID_58aa4bb949db",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 38.146433365824436,
+              "lng": -122.26648092269899,
+              "id": "ID_a8c9087b7b08",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 38.092383643331154,
+              "lng": -122.18170166015626,
+              "id": "ID_98aa78b95aa9",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 38.06412108274985,
+              "lng": -122.17974901199342,
+              "id": "ID_5959e928c909",
+              "targets": {
+                "vertexIds": [
+                  "ID_6929e8b958e8"
+                ]
+              }
+            },
+            {
+              "lat": 38.06412108274985,
+              "lng": -122.17974901199342,
+              "id": "ID_6929e8b958e8",
+              "targets": {
+                "vertexIds": [
+                  "ID_5959e928c909"
+                ]
+              }
+            },
+            {
+              "lat": 38.019790263678175,
+              "lng": -122.15585052967073,
+              "id": "ID_b9dabb9ada9a",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 38.067054258839704,
+              "lng": -122.23720192909242,
+              "id": "ID_b809c8e849bb",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 38.08529686015582,
+              "lng": -122.25453972816469,
+              "id": "ID_4ab95b6afb78",
+              "targets": {
+                "vertexIds": []
+              }
+            }
+          ]
+        }
+      ],
+      "files": []
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#dddddd",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [],
+  "color": "#dddddd",
+  "lat": 38.100566,
+  "long": -122.263056,
+  "notePreview": false,
+  "layerMarkers": true,
+  "previousVersion": "6.0.0",
+  "version": {
+    "major": 6,
+    "minor": 0,
+    "patch": 0
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {
+    "darkMode": "false",
+    "defaultZoom": 12,
+    "distanceMultiplier": 1,
+    "drawColor": "#3388ff",
+    "geojson": [],
+    "geojsonColor": "#3388ff",
+    "gpx": [],
+    "gpxColor": "#3388ff",
+    "height": "400px",
+    "image": "real",
+    "imageOverlay": [],
+    "isMapView": false,
+    "layers": [
+      "real"
+    ],
+    "linksFrom": [],
+    "linksTo": [],
+    "marker": [],
+    "commandMarker": [],
+    "markerFile": [],
+    "markerFolder": [],
+    "markerTag": [
+      [
+        "places"
+      ]
+    ],
+    "maxZoom": 20,
+    "minZoom": 8,
+    "osmLayer": true,
+    "overlay": [],
+    "overlayColor": "blue",
+    "scale": 1,
+    "showAllMarkers": false,
+    "tileServer": [],
+    "verbose": false,
+    "zoomDelta": 1,
+    "zoomFeatures": false,
+    "id": "arcata",
+    "coordinates": "[[Arcata]]",
+    "filterTag": []
+  },
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultAttribution": "&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors &copy; <a href=\"https://carto.com/attributions\">CARTO</a>",
+  "defaultTileSubdomains": "a,b,c,d"
+}

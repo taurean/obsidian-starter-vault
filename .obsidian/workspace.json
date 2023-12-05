@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "d309e45892a0d13b",
+    "type": "split",
+    "children": [
+      {
+        "id": "a055538a36b6f6b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "05d2608a6c1a11cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/Daily/2023-12-05.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "04af244a37119fd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Single Threaded Execution Review (Lesson).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "232e63563714f1a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce36b2a093e39e9d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1fe3b90996118647",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bd36bfeb27c4ee98",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "29616da36c193f2f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 400.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "de24c3b3bcdeb70f",
+    "type": "split",
+    "children": [
+      {
+        "id": "27d057cc68c704e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "64ba76d842a10e72",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Single Threaded Execution Review (Lesson).md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dfd6a21427995772",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8764d3dddd0c2ad3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Single Threaded Execution Review (Lesson).md"
+              }
+            }
+          },
+          {
+            "id": "5f437ba2a8529876",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "655a90879b57e579",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Single Threaded Execution Review (Lesson).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f470d9742d82d864",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "zk-prefixer:Create new unique note": false,
+      "random-note:Open random note": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "publish:Publish changes...": false
+    }
+  },
+  "active": "04af244a37119fd7",
+  "lastOpenFiles": [
+    "notes/Daily/2023-12-05.md",
+    "Single Threaded Execution Review (Lesson).md",
+    "notes/Javascript, the Hard Parts v2.md",
+    "notes/Daily/2023-12-04.md",
+    "Ken Voskuil.md",
+    "Kenneth R..md",
+    "Mill Valley.md",
+    "Sunnyside Kitchen.md",
+    "Brendan Montalvo.md",
+    "Bria Bryant.md",
+    "notes/Untitled 2.canvas",
+    "notes/Vallejo.md",
+    "notes/United States.md",
+    "notes/Arcata.md",
+    "Comedy.md",
+    "notes/San Francisco.md",
+    "notes/House of Nanking.md",
+    "Bayside Cafe.md",
+    "Closure Technical Definition & Review (Lesson).md",
+    "notes/Daily/2023-12-02.md",
+    "notes/Untitled 1.canvas",
+    "notes/Arcata 2023.md",
+    "Step Brothers.md",
+    "notes/Daily/2023-12-01.md",
+    "notes/2023-12-02 0931.md",
+    "Collections/Events.md",
+    "notes/Daily/2023-11-30.md",
+    "Closure Exercises (Lesson).md",
+    "notes/Untitled.canvas",
+    "Attachments/IMG_0419.jpg",
+    "Attachments/Pasted image 20231112192244.png",
+    "matter",
+    "Excerpts",
+    "TemplatesOLD",
+    "Daily",
+    "Backlog",
+    "Collections",
+    "notes",
+    "Attachments/Pasted image 20231109115823.png"
+  ]
+}
